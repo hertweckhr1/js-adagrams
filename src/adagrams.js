@@ -122,8 +122,8 @@ const Adagrams = {
   },
 };
 
-const words = [ 'bird', 'duck', 'dog', 'cheetah']
-console.log(Adagrams.highestScoreFrom(words));
+// const words = [ 'bird', 'duck', 'dog', 'cheetah']
+// console.log(Adagrams.highestScoreFrom(words));
 // console.log(Adagrams.drawLetters());
 // const drawn = ['D', 'O', 'X', 'X', 'X', 'X', 'X', 'X', 'X'];
 // const word = 'DOG';
